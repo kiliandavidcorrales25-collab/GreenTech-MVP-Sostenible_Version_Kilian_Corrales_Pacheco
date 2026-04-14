@@ -7,7 +7,7 @@ Este proyecto es una versión optimizada de la landing page **"Salvemos el Plane
 - Eliminamos **Bootstrap, jQuery, Moment.js y Font Awesome**.  
 - Todo el diseño está echo en un CSS nativo así podemos controlar para que sea mas manejable a nuestros requerimientos
 - Organizamos un poco mejor el botón conservando su diseño original pero mas optimo
-- Reorganizamos el Footer sin scripts extras
+- Reorganizamos el Footer y eliminiamos el scripts
 
 ## ¿Con que objetivo hacemos esto?
 
